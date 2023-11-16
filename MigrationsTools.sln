@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "src\WebApi\WebApplication1\WebApplication1.csproj", "{A457604F-7DEC-4C52-A595-1AFC18908995}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationsTools.WebApi", "src\WebApi\MigrationsTools.WebApi\MigrationsTools.WebApi.csproj", "{A457604F-7DEC-4C52-A595-1AFC18908995}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
