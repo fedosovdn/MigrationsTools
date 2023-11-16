@@ -1,4 +1,4 @@
-namespace WebApplication1;
+namespace MigrationsTools.WebApi;
 
 public class WeatherForecast
 {
